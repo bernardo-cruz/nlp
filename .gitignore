@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/investopedia_glossary.csv
+data/investopedia_glossary_transformed.csv

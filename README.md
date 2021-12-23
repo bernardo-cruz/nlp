@@ -1,2 +1,2 @@
-# nlp
- CTA course @HSLU: Natural Language Processing 
+# CLT01
+ NLP@ HSLU

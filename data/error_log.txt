@@ -1,0 +1,57 @@
+X started 
+X | Element https://www.investopedia.com/business-essentials-4689832 not found 
+Y started 
+Y | Element https://www.investopedia.com/budgeting-and-savings-4427755 not found 
+NUM started 
+Z started 
+Z | Element https://www.investopedia.com/economics-4689800 not found 
+K started 
+K | Element https://www.investopedia.com/insurance-4427716 not found 
+Q started 
+Q | Element https://www.investopedia.com/health-insurance-4427714 not found 
+J started 
+J | Element https://www.investopedia.com/career-advice-4689809 not found 
+V started 
+V | Element https://www.investopedia.com/sectors-and-industries-analysis-4689756 not found 
+V | Element https://www.investopedia.com/stocks-4427785 not found 
+V | Element https://www.investopedia.com/international-markets-4689750 not found 
+V | Element https://www.investopedia.com/business-essentials-4689832 not found 
+V | Element https://www.investopedia.com/entrepreneurs-4689828 not found 
+W started 
+W | Element https://www.investopedia.com/macroeconomics-4689798 not found 
+U started 
+U | Element https://www.investopedia.com/options-trading-strategy-and-education-4689661 not found 
+N started 
+O started 
+O | Element https://www.investopedia.com/investing-essentials-4689754 not found 
+O | Element https://www.investopedia.com/behavioral-economics-4689799 not found 
+H started 
+H | Element https://www.investopedia.com/options-and-derivatives-trading-4689663 not found 
+H | Element https://www.investopedia.com/behavioral-economics-4689799 not found 
+H | Element https://www.investopedia.com/fundamental-analysis-4689757 not found 
+H | Element https://www.investopedia.com/corporate-insurance-4689818 not found 
+L started 
+L | Element https://www.investopedia.com/business-essentials-4689832 not found 
+T started 
+T | Element https://www.investopedia.com/crime-and-fraud-4427767 not found 
+B started 
+E started 
+S started 
+I started 
+P started 
+R started 
+C started 
+C | Element https://www.investopedia.com/corporate-finance-4689819 not found 
+M started 
+G started 
+G | Element https://www.investopedia.com/corporate-finance-and-accounting-4689821 not found 
+G | Element https://www.investopedia.com/sectors-and-industries-analysis-4689756 not found 
+G | Element https://www.investopedia.com/company-profiles-4689825 not found 
+D started 
+D | Element https://www.investopedia.com/behavioral-economics-4689799 not found 
+D | Element https://www.investopedia.com/business-essentials-4689832 not found 
+D | Element https://www.investopedia.com/tech-stocks-4689742 not found 
+F started 
+A started 
+A | Element https://www.investopedia.com/senior-care-4427723 not found 
+A | Element https://www.investopedia.com/alternative-investments-4427781 not found 
