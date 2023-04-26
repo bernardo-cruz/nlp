@@ -115,3 +115,5 @@ dmypy.json
 data/investopedia_glossary.csv
 data/investopedia_glossary_transformed.csv
 .DS_Store
+NaturalLanguageUnderstanding/homework/data/investopedia_glossary.csv
+NaturalLanguageUnderstanding/homework/data/ProTest/investopedia_glossary_transformed.csv
