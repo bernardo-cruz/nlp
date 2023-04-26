@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 data/investopedia_glossary.csv
 data/investopedia_glossary_transformed.csv
+.DS_Store
